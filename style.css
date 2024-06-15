@@ -16,6 +16,7 @@ h1{
 .contact{
     background-color: aqua;
     text-align: center;
+    font-size: 1.2rem;
     
 }
 div button {
@@ -31,4 +32,9 @@ div button {
     display: flex;
     justify-content: center;
     align-items: center;
+    font-size: 1.2rem;
+}
+
+body{
+    font-size: 20px;
 }
